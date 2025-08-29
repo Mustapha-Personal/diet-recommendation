@@ -1,3 +1,4 @@
 env
 instance
 .env
+.DS_Store
